@@ -1,9 +1,4 @@
 # PyTorch-MNIST
-PyTorch project based on the MNIST dataset, splitting, transforming, modelling, using Cross Entropy Loss function, optimizing using Stochastic gradient descent and Visualizing the training and validation loss and metrics over epochs
-
-
-
-![image](https://github.com/rbhardwaj2186/PyTorch-MNIST/assets/143745073/3ff66a21-5ae8-4efc-92fe-d09c53d0f9fd)
 
 
 
