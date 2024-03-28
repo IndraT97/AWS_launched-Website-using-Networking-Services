@@ -10,3 +10,13 @@
 * ***Amazon CloudFront -*** *Fast, secure, and global content delivery network (CDN) service*
 * ***S3 Storage -*** *Scalable cloud storage service for data backup and archival*
 * ***AWS Certificate Manager -*** *Manages SSL/TLS certificates for secure AWS service communication*
+
+### High Level Steps
+
+
+
+## Website
+
+<p align="center">
+  <img src="https://github.com/IndraT97/launched-Website-using-AWS-Services/blob/master/Website.png">
+</p>
