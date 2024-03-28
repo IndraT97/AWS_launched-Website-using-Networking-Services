@@ -1,6 +1,10 @@
 # Launching a Website using AWS Networking Services
 
+## Architecture
 
+<p align="center">
+  <img src="">
+</p>
 
 The Fashion-MNIST (FMNIST) dataset is a dataset of 10 classes of fashion articles: t-shirt/top, trouser, pull-over, dress, coat, sandal, shirt, sneaker, bag, and ankle boot. The dataset contains 60,000 training images and 10,000 test images, each image being a 28x28 pixel grayscale image of a fashion article.
 
