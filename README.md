@@ -13,12 +13,12 @@
 
 ### High Level Steps
 
-- Purchase a domain from hostinger.com (indrajeetthakare.cloud)
-- Create a static website using S3
-- Name of the bucket can be domain name
-- Create a certificate from the Amazon Certificate Manager for the DNS purchased
-- Create a Cloudfront Distribution
-- Create a hosted zone in the Route 53
+- Purchased a domain from hostinger.com (indrajeetthakare.cloud)
+- Created a static website using S3
+- Setting up Name of the bucket to be domain name
+- Created a certificate from the Amazon Certificate Manager for the DNS purchased
+- Created a Cloudfront Distribution
+- Created a hosted zone in the Route 53
 
 ## Website
 
