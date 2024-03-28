@@ -20,7 +20,7 @@
 - Created a Cloudfront Distribution
 - Created a hosted zone in the Route 53
 
-## Website
+## Website Demo
 
 <p align="center">
   <img src="https://github.com/IndraT97/launched-Website-using-AWS-Services/blob/master/Website.png">
